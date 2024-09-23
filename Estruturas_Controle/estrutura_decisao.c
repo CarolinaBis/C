@@ -2,7 +2,7 @@
 par exibir o seu dobro, caso contrário, exibir o
 seu triplo.*/
 
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(){
 
